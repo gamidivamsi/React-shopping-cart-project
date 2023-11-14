@@ -18,6 +18,13 @@ By using this command, we can install some icons that are used in this project l
 In react applications, we need to have different routes for our application. so for that, this command is used.
 
 # Command Used At The Time Of Execution
+These commands are used at the time of execution.
+
+# npm start
+Runs the app in the development mode.
+open http://localhost:3000/ to view it in the browser
+
+The page will reload when you make changes.
 
 
 
