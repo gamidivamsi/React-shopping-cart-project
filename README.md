@@ -30,8 +30,11 @@ The page will reload when you make changes.
 Launches the test runner in the interactive watch mode.
 
 # npm run
-This command is optionally used in react applications but some users may use it like this is the main command for there projects to run. In this project, I haven't used it.
+This command is optionally used in react applications but some users may use it like this is the main command for their projects to run. In this project, I haven't used it.
 
+
+# Conclusion
+These are some of the commands I have used in the implementation part in order to run the project.
 
 
 
