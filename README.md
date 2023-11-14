@@ -14,5 +14,31 @@ The use of this command is that a new folder will be created and in that, we can
 # npm add phosphor-react
 By using this command, we can install some icons that are used in this project like the shop symbol, which indicates the cart symbol and we can find many different icons in this command
 
-#react-router-dom
+# react-router-dom
 In react applications, we need to have different routes for our application. so for that, this command is used.
+
+# Command Used At The Time Of Execution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
