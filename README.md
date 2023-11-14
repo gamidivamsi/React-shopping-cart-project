@@ -1,1 +1,2 @@
-# React-shopping-cart-project
+# Summary of the project
+hi
