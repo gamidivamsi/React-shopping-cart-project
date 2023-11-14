@@ -22,9 +22,15 @@ These commands are used at the time of execution.
 
 # npm start
 Runs the app in the development mode.
-open http://localhost:3000/ to view it in the browser
+open http://localhost:3000 to view it in the browser
 
 The page will reload when you make changes.
+
+# npm test
+Launches the test runner in the interactive watch mode.
+
+# npm run
+This command is optionally used in react applications but some users may use it like this is the main command for there projects to run. In this project, I haven't used it.
 
 
 
